@@ -7,7 +7,6 @@ February 20 2025
 
 <img src="https://github.com/user-attachments/assets/39c93b4f-76d7-42d6-adbe-86608eb35dee" width="200" />
 
-
 ## **Introduction**
 
 In this tutorial, we will first describe what RStudio is and why we are using it for data analysis. Learning R can take time, and it's normal if some concepts feel unclear at first. Even experienced users frequently look things up! The goal of this tutorial is to reinforce key concepts through repeated practical demonstrations, helping you build confidence and fluency. By the end, you'll be able to manipulate and visualize data effectively, which is crucial in veterinary research and practice.
