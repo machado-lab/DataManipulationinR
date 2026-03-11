@@ -457,17 +457,11 @@ Gengar's **Special Attack** stat is 130. Assume Gengar can defeat any Pokémon w
 
 **Part A:** How many Pokémon can Gengar defeat? Display the count in a table.
 
-```r
-# Hint: Use filter() and nrow(), or summarize() with n()
-gengar_defeats <- pokemondata %>%
-  filter(special_defense < 130)
-```
+
 
 **Part B:** How many of those Pokémon are from each primary type? Display the results as a table sorted from most to fewest.
 
-```r
-# Hint: Use group_by(type_1) %>% summarize(count = n()) %>% arrange(desc(count))
-```
+
 
 ---
 
