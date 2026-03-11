@@ -20,6 +20,9 @@ In this section, we will cover more advanced methods for handling and manipulati
 
 <img src="https://docs.posit.co/ide/user/ide/get-started/images/rstudio-panes-labeled.jpeg" width="717"/>
 
+## Log into Rstudio for NCSU 
+Log into [Posit Workbench](https://rstudio.stat.ncsu.edu) using your UnityID and password. 
+
 
 ## RStudio environment
 
