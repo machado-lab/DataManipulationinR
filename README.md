@@ -1,4 +1,6 @@
 <img width="465" height="422" alt="Scan me" src="https://github.com/user-attachments/assets/0a38ee05-9074-4526-943c-74d46fe8788c" />
+
+
 # Data Manipulation and Visualization in R
 
 **Nicolas Cardenas** | March 11, 2026
